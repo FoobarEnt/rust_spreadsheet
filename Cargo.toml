@@ -1,0 +1,8 @@
+[package]
+name        = "spreadsheet"
+version     = "0.0.0"
+authors     = ["flopes"]
+description = "Agnostic spreadsheet reader and writer (reserved namespace)."
+license     = "Apache-2.0"
+
+[dependencies]
