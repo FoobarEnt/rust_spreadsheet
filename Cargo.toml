@@ -1,8 +1,9 @@
 [package]
 name        = "spreadsheet"
-version     = "0.0.0"
-authors     = ["flopes"]
+version     = "0.0.2"
+authors     = ["Filip Lopes <FilipLopes0@gmail.com>"]
 description = "Agnostic spreadsheet reader and writer (reserved namespace)."
 license     = "Apache-2.0"
+repository  = "https://github.com/FoobarEnt/rust_spreadsheet"
 
 [dependencies]
